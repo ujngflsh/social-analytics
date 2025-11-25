@@ -1,4 +1,4 @@
-# Social Media Analytics Dashboard (Dummy)
+# Social Media Analytics Dashboard
 
 A modern, responsive analytics dashboard built to showcase front-end skills.
 
